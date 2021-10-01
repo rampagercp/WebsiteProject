@@ -1,0 +1,14 @@
+{
+  "name": "Website-Project",
+  "version": "0.0.1",
+  "description": "Website creation",
+  "main": "index.js",
+  "author": "Rodrigo Pacheco",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.2"
+  }
+}
